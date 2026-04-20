@@ -59,52 +59,52 @@ Pour sauver les soldes, Mr Jhon t'a laissé cette liste de questions sur ton bur
 
 * Compétence testée : Utilisation de LIKE '%...%' et opérateur <.
 
-3. Le filtrage des "Villes Prioritaires"
+**3.** Le filtrage des "Villes Prioritaires"
 
-"On lance une campagne d'affichage à Bukavu et Matadi. Donne-moi le nom, le prénom et l'email de tous nos clients qui habitent soit à 'Bukavu', soit à 'Matadi'."
+>"On lance une campagne d'affichage à Bukavu et Matadi. Donne-moi le nom, le prénom et l'email de tous nos clients qui habitent soit à 'Bukavu', soit à 'Matadi'."
 
-Compétence testée : Utilisation de l'opérateur OR ou IN ('...', '...').
+* Compétence testée : Utilisation de l'opérateur OR ou IN ('...', '...').
 
-4. La traque des "Anciens Articles" (Le juste prix)
+**4.** La traque des "Anciens Articles" (Le juste prix)
 
-"Je cherche les articles de sport de combat (catégorie 'Combat') dont le prix se situe entre 20€ et 50€. On va leur appliquer une remise immédiate."
+>"Je cherche les articles de sport de combat (catégorie 'Combat') dont le prix se situe entre 20€ et 50€. On va leur appliquer une remise immédiate."
 
-Compétence testée : Utilisation de BETWEEN ou de la combinaison >= AND <=.
+* Compétence testée : Utilisation de BETWEEN ou de la combinaison >= AND <=.
 
-5. Le casse-tête des "Inactifs de Lubumbashi"
+**5.** Le casse-tête des "Inactifs de Lubumbashi"
 
-"Dernière chose : je veux relancer les clients de Lubumbashi (ville = 'Lubumbashi') qui se sont inscrits avant l'année 2025. Affiche leur nom, leur ville et leur date d'inscription."
+>"Dernière chose : je veux relancer les clients de Lubumbashi (ville = 'Lubumbashi') qui se sont inscrits avant l'année 2025. Affiche leur nom, leur ville et leur date d'inscription."
 
-Compétence testée : Filtrage sur une date et combinaison de deux critères avec AND.
+* Compétence testée : Filtrage sur une date et combinaison de deux critères avec AND.
 
 
 
 
 ## Astuces de Data Analyst
 
-Le SELECT * est ton ennemi : En entreprise, on ne demande jamais "toutes les colonnes". Apprends à ne sélectionner que nom_produit et prix. C'est plus pro et plus rapide !
+* Le `SELECT *` est ton ennemi : En entreprise, on ne demande jamais "toutes les colonnes". Apprends à ne sélectionner que `nom_produit` et `prix`. C'est plus pro et plus rapide !
 
-La casse des caractères : Attention, SQL peut être sensible à la casse. Si tu cherches 'Tennis', il ne trouvera peut-être pas 'tennis'. Pense à utiliser LIKE.
+* La casse des caractères : Attention, SQL peut être sensible à la casse. Si tu cherches 'Tennis', il ne trouvera peut-être pas 'tennis'. Pense à utiliser `LIKE`.
 
-Les parenthèses magiques : Quand tu mélanges AND et OR, utilise des parenthèses. SQL est comme les mathématiques, il a ses priorités !
+* Les parenthèses magiques : Quand tu mélanges `AND` et `OR`, utilise des parenthèses. SQL est comme les mathématiques, il a ses priorités !
 
 
 
 
 ## Livrables
 
-Le fichier SQL : Un fichier .sql contenant toutes les requêtes propres et commentées.
+* **Le fichier SQL** : Un fichier `.sql` contenant toutes les requêtes propres et commentées.
 
-Le rapport de résultats : Un document (PDF ou Markdown) avec des captures d'écran des 5 résultats les plus importants.
+* **Le rapport de résultats** : Un document (PDF ou Markdown) avec des captures d'écran des 5 résultats les plus importants.
 
-Dépôt GitHub : Un dossier SQL-Sport-Store contenant vos fichiers.
+* **Dépôt GitHub** : Un dossier SQL-Sport-Store contenant vos fichiers.
 
 Note pour la soumission :
 
 Le lien vers le repos Github sur lequel vous allez retrouver le fichier de base sur lequel travailler et ensuite déposer votre travail :
 
-Pour la classe 2026-janvier-da-soir-b
+* Pour la classe 2026-janvier-da-soir-b
 
-Pour la classe 2026-janvier-da-midi-c
+* Pour la classe 2026-janvier-da-midi-c
 
 Après avoir déposé votre travail sur Github, veuillez copier l'url du repos Github et finaliser votre soumission en le soumettant sur Canvas.
