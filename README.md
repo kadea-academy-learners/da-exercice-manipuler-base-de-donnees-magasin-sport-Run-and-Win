@@ -32,13 +32,13 @@ Ta mission : En tant que Data Analyst, tu dois interroger la base de données SQ
 
 L’exercice sera réalisé selon les modalités suivantes :
 
-Méthode : Manipulation directe de base de données (Interrogation SQL).
+* **Méthode** : Manipulation directe de base de données (Interrogation SQL).
 
-Durée : 3 jours (Analyse des questions > Rédaction des requêtes > Vérification des résultats).
+* **Durée** : 3 jours (Analyse des questions > Rédaction des requêtes > Vérification des résultats).
 
-Outils : DBeaver, DB Browser for SQLite, ou tout client SQL de ton choix.
+* **Outils** : DBeaver, DB Browser for SQLite, ou tout client SQL de ton choix.
 
-Collaboration : Utilise le canal dédié pour poser la question fatale : "Pourquoi ma requête ne renvoie rien alors que je sais que le produit existe ?".
+* **Collaboration** : Utilise le canal dédié pour poser la question fatale : "Pourquoi ma requête ne renvoie rien alors que je sais que le produit existe ?".
 
 
 
@@ -47,11 +47,11 @@ Collaboration : Utilise le canal dédié pour poser la question fatale : "Pourqu
 
 Pour sauver les soldes, Mr Jhon t'a laissé cette liste de questions sur ton bureau. Pour chaque question, tu dois écrire la requête SQL correspondante dans ton fichier queries.sql.
 
-1. Le ciblage "Tennis Premium"
+**1.** Le ciblage "Tennis Premium"
 
-"Je veux préparer une newsletter pour nos clients fans de Tennis. Peux-tu me donner le nom et le prix de tous les articles de la catégorie 'Tennis' qui coûtent plus de 100€ ?"
-
-Compétence testée : SELECT de colonnes spécifiques + WHERE avec comparateur simple.
+>"Je veux préparer une newsletter pour nos clients fans de Tennis. Peux-tu me donner le nom et le prix de tous les articles de la catégorie 'Tennis' qui coûtent plus de 100€ ?"
+>
+* Compétence testée : SELECT de colonnes spécifiques + WHERE avec comparateur simple.
 
 2. L'opération "Déstockage Rando"
 
