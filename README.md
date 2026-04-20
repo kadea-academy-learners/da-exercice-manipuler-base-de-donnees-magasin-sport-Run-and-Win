@@ -50,14 +50,14 @@ Pour sauver les soldes, Mr Jhon t'a laissé cette liste de questions sur ton bur
 **1.** Le ciblage "Tennis Premium"
 
 >"Je veux préparer une newsletter pour nos clients fans de Tennis. Peux-tu me donner le nom et le prix de tous les articles de la catégorie 'Tennis' qui coûtent plus de 100€ ?"
->
+
 * Compétence testée : SELECT de colonnes spécifiques + WHERE avec comparateur simple.
 
-2. L'opération "Déstockage Rando"
+**2.** L'opération "Déstockage Rando"
 
-"On a trop de stock sur les chaussures. Donne-moi la liste complète des produits dont le nom contient le mot 'Rando' et dont le stock est inférieur à 5 unités. Je veux voir le nom, le stock et le prix."
+>"On a trop de stock sur les chaussures. Donne-moi la liste complète des produits dont le nom contient le mot 'Rando' et dont le stock est inférieur à 5 unités. Je veux voir le nom, le stock et le prix."
 
-Compétence testée : Utilisation de LIKE '%...%' et opérateur <.
+* Compétence testée : Utilisation de LIKE '%...%' et opérateur <.
 
 3. Le filtrage des "Villes Prioritaires"
 
