@@ -34,7 +34,7 @@ L’exercice sera réalisé selon les modalités suivantes :
 
 * **Méthode** : Manipulation directe de base de données (Interrogation SQL).
 
-* **Durée** : 3 jours (Analyse des questions > Rédaction des requêtes > Vérification des résultats).
+* **Durée** : 2 jours (Analyse des questions > Rédaction des requêtes > Vérification des résultats).
 
 * **Outils** : DBeaver, DB Browser for SQLite, ou tout client SQL de ton choix.
 
@@ -45,7 +45,7 @@ L’exercice sera réalisé selon les modalités suivantes :
 
 ## Travail à réaliser
 
-Pour sauver les soldes, Mr Jhon t'a laissé cette liste de questions sur ton bureau. Pour chaque question, tu dois écrire la requête SQL correspondante dans ton fichier `queries.sql`.
+Pour sauver les soldes, Mr Jhon t'a laissé cette liste de questions sur ton bureau. Pour chaque question, tu dois écrire les requêtes SQL correspondante dans ton fichier `queries.sql`.
 
 **1.** Le ciblage "Tennis Premium"
 
@@ -93,7 +93,7 @@ Pour sauver les soldes, Mr Jhon t'a laissé cette liste de questions sur ton bur
 
 ## Livrables
 
-* **Le fichier SQL** : Un fichier `.sql` contenant toutes les requêtes propres et commentées.
+* **Le fichier SQL** : Un fichier `queries.sql` contenant toutes les requêtes propres et commentées.
 
 * **Le rapport de résultats** : Un document (PDF ou Markdown) avec des captures d'écran des 5 résultats les plus importants.
 
