@@ -15,15 +15,15 @@ Ta mission : En tant que Data Analyst, tu dois interroger la base de données SQ
 
 À la fin de cet exercice, tu seras capable de :
 
-Cibler les colonnes : Sélectionner uniquement les données utiles (SELECT) pour éviter de polluer les rapports.
+* **Cibler les colonnes** : Sélectionner uniquement les données utiles (SELECT) pour éviter de polluer les rapports.
 
-Filtrer avec précision : Utiliser la clause WHERE pour isoler des produits ou des clients selon des critères stricts.
+* **Filtrer avec précision** : Utiliser la clause WHERE pour isoler des produits ou des clients selon des critères stricts.
 
-Maîtriser les opérateurs : Comparer des prix (>, <, =), combiner des conditions (AND, OR) et gérer les plages de valeurs (BETWEEN).
+* **Maîtriser les opérateurs** : Comparer des prix (>, <, =), combiner des conditions (AND, OR) et gérer les plages de valeurs (BETWEEN).
 
-Rechercher par motifs : Utiliser l'opérateur LIKE pour retrouver des produits malgré les erreurs de saisie (majuscules/minuscules).
+* **Rechercher par motifs** : Utiliser l'opérateur LIKE pour retrouver des produits malgré les erreurs de saisie (majuscules/minuscules).
 
-Garantir la lisibilité : Renommer les colonnes (Alias) pour que Mr Jhon comprenne tes rapports au premier coup d'œil.
+* **Garantir la lisibilité** : Renommer les colonnes (Alias) pour que Mr Jhon comprenne tes rapports au premier coup d'œil.
 
 
 
